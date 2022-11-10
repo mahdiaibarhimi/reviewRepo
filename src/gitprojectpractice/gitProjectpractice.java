@@ -8,5 +8,6 @@ public class gitProjectpractice {
 	}
 public void test() {
 	System.out.println("this is from local repository");
+	
 }
 }
